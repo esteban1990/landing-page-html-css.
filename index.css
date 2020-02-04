@@ -1,11 +1,12 @@
 body{
-    margin:auto;
+
 
 
 
 }
 
-.container{
-    background: blue;
-    
+.head{
+    background:rgba(0, 0, 255, 0.507);
+
+   
 }
